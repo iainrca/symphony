@@ -1,2 +1,2 @@
 # symphony
-TO hold things like the html letters
+html letters etc
